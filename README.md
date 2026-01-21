@@ -55,6 +55,6 @@
 
 ### 📊 Profile stats
 
-[![Harold github stats](https://github-readme-stats.vercel.app/api?username=Hardok19&theme=blue_navy&include_all_commits=true)]
+![Harold github stats](https://github-readme-stats.vercel.app/api?username=Hardok19&theme=blue_navy&include_all_commits=true)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

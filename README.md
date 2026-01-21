@@ -3,7 +3,7 @@
 <h3 align="center"> Computer Engineer student </h3> <br>
 
 <p align="center"> 
-<a href="www.linkedin.com/in/harold-madriz"><img alt="LinkedIn" src="https://img.shields.io/badge/Harold_Madriz-blue?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/harold-madriz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Harold_Madriz-blue?style=for-the-badge"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
